@@ -22,3 +22,9 @@
 - There is 8-pole antenna too, but again isolation is difficult
 # Metasurfaces
 ![Metasurfaces](/images/metasurfaces.png)
+# Luneberg Lenses
+![Luneberg lens](/images/luneberg_lens.png)
+# Lens Antenna
+![Antenna Lens](/images/lens_antenna.jpeg)
+# Types of antennas on phone
+![All antennas on phone](/images/antennas_on_phone.jpeg)
